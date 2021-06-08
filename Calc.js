@@ -26,5 +26,5 @@ function Calculate()
             }
         }       
     }
-    console.log(stackNums.pop());
+    alert(stackNums.pop());
 }
